@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+open_clip_torch
+pillow
+numpy
+pandas
+spacy
+streamlit
+matplotlib
+scikit-learn
+tqdm
