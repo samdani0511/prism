@@ -203,43 +203,6 @@ Higher score → Higher hallucination probability
 
 ---
 
-## 📌 Common Issues & Fixes
-
-### ❌ PEFT Version Error
-
-```
-ImportError: peft>=0.17.0 required
-```
-
-Fix:
-
-```bash
-pip install --upgrade peft
-```
-
----
-
-### ❌ LangChain Import Error
-
-Ensure correct version:
-
-```bash
-pip install --upgrade langchain
-```
-
----
-
-### ❌ Git Push Credential Error
-
-Use:
-
-```bash
-gh auth login
-```
-
-or configure personal access token.
-
----
 
 ## 🎯 Future Improvements
 
